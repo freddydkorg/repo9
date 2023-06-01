@@ -1,7 +1,7 @@
 page 74125 "BingMaps Settings"
 {
     PageType = API;
-    Caption = 'BingMaps Settings';
+    Caption = 'BingMaps Settings!!!';
     APIPublisher = 'microsoft';
     APIGroup = 'bingmaps';
     APIVersion = 'v1.0';
